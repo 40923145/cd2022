@@ -54,7 +54,7 @@
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
-<v t="leo.20180115115910.1"><vh>2020</vh>
+<v t="leo.20180115115910.1"><vh>cd2022</vh>
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
 </v>
@@ -168,7 +168,7 @@ vertical: body pane on the botton</t>
 <t tx="yen.20170108171733.2">@language python
 import os
 
-os.system("pelican markdown -o blog -s local_publishconf.py")
+os.system(pelican m"arkdown -o blog -s local_publishconf.py")
 g.es("admin pelican 近端執行完畢")
 
 
